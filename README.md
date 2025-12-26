@@ -22,7 +22,7 @@ I'm also passionate about music — especially the vinyl world — and I love bl
 
 ### 🎧 WaxHub — Vinyl Collection App  
 A cross-platform application for managing vinyl collections using Discogs API, smart lists and an interactive record-store map.  
-👉 *Repository:* [WaxHub](https://github.com/carlosrondon95/waxhub)
+👉 *Repository:* [WaxHub]([https://github.com/carlosrondon95/waxhub](https://github.com/carlosrondon95/waxhub_v3))
 
 ### 🕹️ Misión Futuro — Web Mini-Game for WordPress  
 A gamified questionnaire transformed into an interactive 2D runner with forms, academy logic and dynamic events.  
